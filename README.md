@@ -18,13 +18,13 @@
 
 In rhythm and code, I find my voice. Creating tools that resonate, from fingertips to servers.
 
-🌱 Learning: Deepening mastery in the MERN stack — building with intention, scaling with purpose.
+-🌱 Learning: Deepening mastery in the MERN stack — building with intention, scaling with purpose.
 
-🎭 Fun fact: I’m a dancer who loves expressing stories through movement.
+-💃 Fun fact: I’m a dancer who loves expressing stories through movement.
 
-💡 Philosophy: Every challenge carries the seed of its own solution.
+-💡 Philosophy: Every challenge carries the seed of its own solution.
 
-🤝 Looking to: Collaborate on meaningful projects and grow through shared knowledge.
+-🤝 Looking to: Collaborate on meaningful projects and grow through shared knowledge.
 
 ---
 
