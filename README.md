@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:924DB1,50:5600B2,100:924DB1&height=200&section=header&text=Heshal%20Dissanayake&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=FAFAFA" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:924DB1,50:5600B2,100:924DB1&height=200&section=header&text=Thisarani%20Kawya%20Samarathunga&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=FAFAFA" width="100%" alt="Header"/>
 </div>
 
 <h1 align="center">
@@ -7,29 +7,11 @@
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HeshalD&label=Profile%20Views&color=929292&style=for-the-badge" alt="profile views" />
-  <a href="https://heshal.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-5600B2?style=for-the-badge&logo=google-chrome&logoColor=FAFAFA" alt="website" />
-  </a>
-  <a href="mailto:heshal.dissanayake1@gmail.com.com">
+  <img src="https://komarev.com/ghpvc/?username=ThisaraniKawya&label=Profile%20Views&color=929292&style=for-the-badge" alt="profile views" />
+  <a href="mailto:tsamarathunga477@gmail.com">
     <img src="https://img.shields.io/badge/Email-924DB1?style=for-the-badge&logo=gmail&logoColor=FAFAFA" alt="email" />
   </a>
 </div>
-
----
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
- In rhythm and code, I find my voice. Creating tools that resonate, from fingertips to servers.
-
-- 💼 **Currently**: Designing CeylonTopGuide, a platform connecting travelers with local expertise, while also leading the digital transformation of a regional database system.
-- 🌱 **Learning:** Deepening mastery in the MERN stack — building with intention, scaling with purpose.
-  
-- 🎸 **Fun fact:** I play bass in a band.
-- 💡 **Philosophy:** Every challenge carries the seed of its own solution.
-- 🤝 **Looking to:** Collaborating on meaningful projects and growing through shared knowledge.
 
 ---
 
@@ -89,56 +71,20 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HeshalD&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=222222&text_color=FAFAFA&icon_color=929292&title_color=D1D1D1" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeshalD&layout=compact&theme=dark&hide_border=true&bg_color=222222&text_color=FAFAFA&title_color=D1D1D1" height="180em" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeshalD&theme=dark&hide_border=true&background=222222&stroke=929292&ring=D1D1D1&fire=D1D1D1&currStreakLabel=FAFAFA&sideLabels=FAFAFA&currStreakNum=FAFAFA&sideNums=FAFAFA&dates=929292" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HeshalD&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🎯 Current Focus
-
-```javascript
-const currentlyLearning = {
-    frontend: ["React", "Advanced JavaScript", "CSS Grid & Flexbox",],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB"],
-    tools: ["Git", "VS Code", "Postman"],
-    nextGoals: ["MatLab", "Balarina"]
-};
-
-const motivation = "In the silence between keystrokes, creation begins.";
-```
-
----
-
 ## 🌟 Featured Projects
 
 <div align="center">
   
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **CeylonTopGuide** | A tour guide management platform designed to connect travelers with verified local guides, enhancing tourism experiences in Sri Lanka. | MERN Stack |
-| **AquaFiles** | A secure digital document and connection management system being developed for a government organization to streamline data entry and retrieval. | MERN Stack |
-| **Sojourn Parking** | An online parking reservation and management platform under development for a private company, aimed at optimizing space allocation and user accessibility. | MERN Stack |
+| **Wheels4U** | Java-based vehicle rental system using Java OOP principles. | Java |
+| **Ceylon Mart** | Online grocery store developed with MERN stack. | MERN Stack |
+| **My Routin** | Health & wellness mobile app (Android Studio & Kotlin). Track moods, hydration, and stay healthy effortlessly. | Kotlin / Android Studio |
 
 </div>
 
 <p align="center">
-  <a href="https://github.com/HeshalD?tab=repositories">
+  <a href="https://github.com/ThisaraniKawya?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Projects-222222?style=for-the-badge&logo=github&logoColor=FAFAFA" />
   </a>
 </p>
@@ -148,33 +94,25 @@ const motivation = "In the silence between keystrokes, creation begins.";
 ## 🤝 Contact Me
 
 <div align="center">
-  <a href="https://https://www.linkedin.com/in/heshal-dissanayake-193760372/" target="_blank">
+  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BD%2FFTUJLrSECDdoE18RZCmw%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=FAFAFA" />
   </a>
-  <a href="https://instagram.com/heshal._" target="_blank">
+  <a href="https://www.instagram.com/_.kawya__?igsh=MXAxZWJwN2lpMGN1eA%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-5600B2?style=for-the-badge&logo=instagram&logoColor=FAFAFA" />
   </a>
-  <a href="mailto:heshal.dissanayake1@gmail.com" target="_blank">
+  <a href="mailto:tsamarathunga477@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-924DB1?style=for-the-badge&logo=gmail&logoColor=FAFAFA" />
   </a>
 </div>
 
 ---
 
-## 💭 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=222222&color=FAFAFA&border=929292" alt="Random Dev Quote"/>
-</div>
-
----
-
-## 🎮 When I'm Not Coding...
+##  💃When I'm Not Coding...
 
 <div align="center">
   
-**I'm probably somewhere picking my guitar!**
-  
-*Like music, code is rhythm in logic — when it flows, it sings*
+**Dancing and relaxing the mind**  
+*“Dancing is the hidden language of the soul, and every step refreshes the mind.”*
 
 </div>
 
