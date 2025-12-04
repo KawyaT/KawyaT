@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:924DB1,50:5600B2,100:924DB1&height=200&section=header&text=Thisarani%20Kawya%20Samarathunga&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=FAFAFA" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:924DB1,50:5600B2,100:924DB1&height=200&section=header&text=Thisarani%20Kawya%20&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=FAFAFA" width="100%" alt="Header"/>
 </div>
 
 <h1 align="center">
