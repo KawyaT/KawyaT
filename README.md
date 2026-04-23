@@ -19,7 +19,7 @@
 <a href="mailto:tsamarathunga477@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D0D0D?style=flat-square&logo=gmail&logoColor=7EB8DA" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/thisarani-kawya"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&logo=linkedin&logoColor=7EB8DA" /></a>&nbsp;
 <a href="https://www.instagram.com/_.kawya__"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=flat-square&logo=instagram&logoColor=7EB8DA" /></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=ThisaraniKawya&label=Profile+Views&color=0D0D0D&style=flat-square&labelColor=0D0D0D" />
+<img src="https://komarev.com/ghpvc/?username=KawyaT&label=Profile+Views&color=0D0D0D&style=flat-square&labelColor=0D0D0D" />
 
 </div>
 
@@ -133,7 +133,7 @@ thisarani = {
 </table>
 
 <div align="center">
-<a href="https://github.com/ThisaraniKawya?tab=repositories">
+<a href="https://github.com/KawyaT?tab=repositories">
 <img src="https://img.shields.io/badge/→_View_All_Repositories-0D0D0D?style=for-the-badge&logoColor=7EB8DA" />
 </a>
 </div>
@@ -144,9 +144,9 @@ thisarani = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ThisaraniKawya&show_icons=true&theme=transparent&bg_color=0D0D0D&title_color=7EB8DA&icon_color=7EB8DA&text_color=C8C8C8&border_color=2a2a3e&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=KawyaT&show_icons=true&theme=transparent&bg_color=0D0D0D&title_color=7EB8DA&icon_color=7EB8DA&text_color=C8C8C8&border_color=2a2a3e&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisaraniKawya&layout=donut-vertical&theme=transparent&bg_color=0D0D0D&title_color=7EB8DA&text_color=C8C8C8&border_color=2a2a3e&hide_border=false&langs_count=6" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawyaT&layout=donut-vertical&theme=transparent&bg_color=0D0D0D&title_color=7EB8DA&text_color=C8C8C8&border_color=2a2a3e&hide_border=false&langs_count=6" height="170" />
 
 </div>
 
@@ -154,7 +154,7 @@ thisarani = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ThisaraniKawya&theme=transparent&background=0D0D0D&ring=7EB8DA&fire=5DCAA5&currStreakLabel=7EB8DA&sideLabels=9B9B9B&dates=9B9B9B&border=2a2a3e&stroke=2a2a3e&sideNums=E8E8E8&currStreakNum=7EB8DA" width="60%" />
+<img src="https://streak-stats.demolab.com?user=KawyaT&theme=transparent&background=0D0D0D&ring=7EB8DA&fire=5DCAA5&currStreakLabel=7EB8DA&sideLabels=9B9B9B&dates=9B9B9B&border=2a2a3e&stroke=2a2a3e&sideNums=E8E8E8&currStreakNum=7EB8DA" width="60%" />
 
 </div>
 
@@ -164,17 +164,11 @@ thisarani = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThisaraniKawya&theme=react-dark&bg_color=0D0D0D&color=7EB8DA&line=5DCAA5&point=7EB8DA&area=true&area_color=7EB8DA&hide_border=false&border_color=2a2a3e&custom_title=Thisarani%27s%20Contribution%20Graph)](https://github.com/ThisaraniKawya)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KawyaT&theme=react-dark&bg_color=0D0D0D&color=7EB8DA&line=5DCAA5&point=7EB8DA&area=true&area_color=7EB8DA&hide_border=false&border_color=2a2a3e&custom_title=Thisarani%27s%20Contribution%20Graph)](https://github.com/KawyaT)
 
 </div>
 
-<div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/ThisaraniKawya/ThisaraniKawya/output/github-contribution-grid-snake-dark.svg)
-
-> 💡 **Tip:** Add the [snake action](https://github.com/Platane/snk) to your repo for a live animated contribution snake!
-
-</div>
 
 ---
 
