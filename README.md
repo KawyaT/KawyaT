@@ -42,14 +42,19 @@ thisarani = {
 
 ## ◈ Data Science Toolkit
 
-**Core Skills**
-```
-Machine Learning    ████████████████░░░░  80%
-Statistical Analysis████████████████░░░░  80%
-Data Visualization  ███████████████░░░░░  75%
-Deep Learning       ████████████░░░░░░░░  60%
-NLP                 ███████████░░░░░░░░░  55%
-```
+<div align="center">
+
+| Skill | Level | Proficiency |
+|:------|:-----:|:-----------:|
+| 🐍 Python · Pandas · NumPy | `████████████████████` | **Core** · 85% |
+| 🤖 Machine Learning | `████████████████░░░░` | **Core** · 80% |
+| 📊 Statistical Analysis | `████████████████░░░░` | **Core** · 80% |
+| 📈 Data Visualization | `███████████████░░░░░` | **Core** · 75% |
+| 🧠 Deep Learning | `████████████░░░░░░░░` | Learning · 60% |
+| 💬 NLP | `██████████░░░░░░░░░░` | Learning · 50% |
+| 🌐 MERN Stack | `███████████████░░░░░` | + Stack · 78% |
+
+</div>
 
 ### Languages & Libraries
 
@@ -139,25 +144,35 @@ NLP                 ███████████░░░░░░░░░
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ThisaraniKawya&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=7EB8DA&icon_color=7EB8DA&text_color=9B9B9B&border_color=1a1a2e&hide_border=false&rank_icon=github" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisaraniKawya&layout=compact&theme=dark&bg_color=0D0D0D&title_color=7EB8DA&text_color=9B9B9B&border_color=1a1a2e" />
+<img src="https://github-readme-stats.vercel.app/api?username=ThisaraniKawya&show_icons=true&theme=transparent&bg_color=0D0D0D&title_color=7EB8DA&icon_color=7EB8DA&text_color=C8C8C8&border_color=2a2a3e&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisaraniKawya&layout=donut-vertical&theme=transparent&bg_color=0D0D0D&title_color=7EB8DA&text_color=C8C8C8&border_color=2a2a3e&hide_border=false&langs_count=6" height="170" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=ThisaraniKawya&theme=dark&background=0D0D0D&ring=7EB8DA&fire=7EB8DA&currStreakLabel=7EB8DA&sideLabels=9B9B9B&dates=9B9B9B&border=1a1a2e" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ThisaraniKawya&theme=transparent&background=0D0D0D&ring=7EB8DA&fire=5DCAA5&currStreakLabel=7EB8DA&sideLabels=9B9B9B&dates=9B9B9B&border=2a2a3e&stroke=2a2a3e&sideNums=E8E8E8&currStreakNum=7EB8DA" width="60%" />
 
 </div>
 
 ---
 
-## ◈ Activity Graph
+## ◈ Contribution Activity
 
 <div align="center">
 
-[![Thisarani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThisaraniKawya&theme=react-dark&bg_color=0D0D0D&color=7EB8DA&line=7EB8DA&point=E8E8E8&area=true&hide_border=false&border_color=1a1a2e)](https://github.com/ThisaraniKawya)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThisaraniKawya&theme=react-dark&bg_color=0D0D0D&color=7EB8DA&line=5DCAA5&point=7EB8DA&area=true&area_color=7EB8DA&hide_border=false&border_color=2a2a3e&custom_title=Thisarani%27s%20Contribution%20Graph)](https://github.com/ThisaraniKawya)
+
+</div>
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/ThisaraniKawya/ThisaraniKawya/output/github-contribution-grid-snake-dark.svg)
+
+> 💡 **Tip:** Add the [snake action](https://github.com/Platane/snk) to your repo for a live animated contribution snake!
 
 </div>
 
@@ -168,15 +183,35 @@ NLP                 ███████████░░░░░░░░░
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   "Dancing is the hidden language of the soul —             ║
-║    every step a variable, every rhythm a pattern."          ║
-║                                                              ║
-║   I find that both data and dance reveal what's invisible.  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                   │
+│   ♩ ♪  D  A  N  C  E  R    +    D  A  T  A  I  S  T  ♫ ♬    │
+│                                                                   │
+│   "Dancing is the hidden language of the soul —                  │
+│    every rhythm a pattern, every beat a signal,                  │
+│    every performance a story told in motion."                    │
+│                                                                   │
+│   I find beauty in structure — whether it's a clean              │
+│   dataset or a choreographed sequence. Both demand               │
+│   precision, creativity, and the courage to iterate.             │
+│                                                                   │
+└─────────────────────────────────────────────────────────────────┘
 ```
+
+| What I do when the terminal is closed |   |
+|:--------------------------------------|:-:|
+| 💃 Choreograph & perform dance routines | *"Movement is my first language"* |
+| 🎵 Discover new music across every genre | *"Rhythm fuels the mind"* |
+| 🎨 Design — Figma, Illustrator, Photoshop | *"Aesthetics matter everywhere"* |
+| 📚 Read about psychology & human behavior | *"Data science is human science"* |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*Both data and dance reveal what's invisible to the naked eye.*
 
 </div>
 
