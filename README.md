@@ -17,7 +17,7 @@
 <div align="center">
 
 <a href="mailto:tsamarathunga477@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D0D0D?style=flat-square&logo=gmail&logoColor=7EB8DA" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/thisarani-kawya"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&logo=linkedin&logoColor=7EB8DA" /></a>&nbsp;
+<a href="https://[www.linkedin.com/in/thisarani-kawya](https://www.linkedin.com/in/thisarani-kawya-50b74b340/)"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&logo=linkedin&logoColor=7EB8DA" /></a>&nbsp;
 <a href="https://www.instagram.com/_.kawya__"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=flat-square&logo=instagram&logoColor=7EB8DA" /></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=KawyaT&label=Profile+Views&color=0D0D0D&style=flat-square&labelColor=0D0D0D" />
 
