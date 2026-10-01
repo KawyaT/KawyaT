@@ -30,7 +30,7 @@ class ThisaraniKawya:
         self.university = "SLIIT — Sri Lanka Institute of Information Technology"
         self.role       = ["Data Scientist", "ML Engineer", "Full-Stack Developer"]
         self.focus      = ["Machine Learning", "NLP", "AI Agents", "Data Engineering"]
-        self.building   = ["RailSense AI", "RAFI — Real-time AI Financial Intelligence"]
+        self.building   = ["RailSense AI"]
         self.learning   = ["Deep Learning", "LLM Applications", "MLOps"]
         self.open_to    = ["Internships", "Research collaborations", "Impactful builds"]
 
@@ -48,7 +48,6 @@ class ThisaraniKawya:
 <td>
 
 - 🔭 &nbsp;Building **RailSense AI** — a multilingual (EN / SI / TA) multi-agent train assistant
-- 🏦 &nbsp;Researching **RAFI** — a real-time AI financial intelligence terminal for banking
 - 🗄️ &nbsp;Engineering a **privacy-compliant hybrid data lakehouse** for banking analytics
 - 🌱 &nbsp;Currently levelling up in **Deep Learning, NLP & LLM-powered systems**
 - 💬 &nbsp;Ask me about **ML pipelines, data mining, EDA, MERN apps & UI design**
@@ -112,20 +111,6 @@ Multilingual (English · Sinhala · Tamil) train information chatbot with a **mu
 </td>
 <td width="50%" valign="top">
 
-### 🏦 RAFI — Real-time AI Financial Intelligence
-Research project: a **physical banking intelligence terminal** delivering real-time, AI-driven financial insights.
-
-![AI](https://img.shields.io/badge/AI%2FML-0D1117?style=flat-square&logo=tensorflow&logoColor=7EB8DA)
-![FinTech](https://img.shields.io/badge/FinTech-0D1117?style=flat-square&logo=bankofamerica&logoColor=7EB8DA)
-![Research](https://img.shields.io/badge/Research-0D1117?style=flat-square&logo=googlescholar&logoColor=7EB8DA)
-
-[→ View Repo](https://github.com/KawyaT)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🗄️ Hybrid Data Lakehouse
 Simulated **privacy-compliant banking analytics pipeline** — from raw ingestion to analytics-ready data.
 
@@ -136,6 +121,8 @@ Simulated **privacy-compliant banking analytics pipeline** — from raw ingestio
 [→ View Repo](https://github.com/KawyaT)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📈 Data Mining Prediction System
@@ -148,8 +135,6 @@ End-to-end **data mining workflow** — EDA, preprocessing, modelling & evaluati
 [→ View Repo](https://github.com/KawyaT)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🛒 Ceylon Mart
@@ -163,6 +148,8 @@ Online grocery platform — full **MERN** stack from authentication to checkout.
 [→ View Repo](https://github.com/KawyaT)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 💧 My Routin — Mood & Wellness Analytics
@@ -173,6 +160,8 @@ Android app for mood trend analysis, hydration logging & behavioural pattern tra
 
 [→ View Repo](https://github.com/KawyaT)
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
